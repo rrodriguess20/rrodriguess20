@@ -2,8 +2,7 @@ My name is Rebeca Rodrigues. I'm majoring in Computer Science in the Instituto F
 I'll be sharing my projects here on GitHub.
 
 - I’m interested in:
-  - Web Developing;
-  - UX/UI
+  - Front-End development;
   - Linux & Open Source;
   - A cup of tea;
 
