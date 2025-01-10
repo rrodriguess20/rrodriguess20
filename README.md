@@ -1,10 +1,12 @@
-My name is Rebeca Rodrigues. I'm majoring in Computer Science in the Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
-I'll be sharing my projects here on GitHub.
+Oi, tudo bem com você?
 
-- I’m interested in:
-  - Front-End development;
-  - Linux & Open Source;
-  - A cup of tea;
+Eu sou a Rebeca Rodrigues, mas você pode me chamar só de Rebeca :)
+Estou me graduando no curso de Ciência da Computação no Insituto Federal do Ceará - campus Aracati.
 
-Basically, I want to seek for knowledge and be a key of change in this world. Therefore, I want to start making the change by myself, through technology and science.
-That's who I am.
+Ainda estou me aventurando no processo de descobrir qual é a minha área na tecnologia, mas já tenho alguns interesses, como:
+
+  - Softwares de código-aberto
+  - Desenvolvimento e Design Web
+  - Produção acadêmica
+
+Ao longo do tempo, estarei publicando meus projetos na minha página do Github.
