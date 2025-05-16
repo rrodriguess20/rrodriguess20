@@ -6,7 +6,7 @@ Estou me graduando no curso de Ciência da Computação no Insituto Federal do C
 Ainda estou me aventurando no processo de descobrir qual é a minha área na tecnologia, mas já tenho alguns interesses, como:
 
   - Softwares de código-aberto 🐧
-  - Desenvolvimento e Design Web 🎨
+  - Desenvolvimento Full-Stack 💻
   - Produção acadêmica 📝
 
 Ao longo do tempo, estarei publicando meus projetos na minha página do Github. 🌱
