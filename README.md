@@ -1,12 +1,9 @@
-### Oi, tudo bem com você? 😊
+# Oi, Rebeca Rodrigues aqui!
 
-Eu sou a Rebeca Rodrigues, mas você pode me chamar só de Rebeca :)
-Estou me graduando no curso de Ciência da Computação no Insituto Federal do Ceará - campus Aracati. 👩‍💻
+### Sobre mim:
+- Estou cursando Bacharelado em Ciência da Computação no IFCE - Campus Aracati👩‍💻
+- Interessada em engenharia de software⚙️
+- Estudando desenvolvimento mobile📱
+- Apaixonada por software-livre🐧
 
-Ainda estou me aventurando no processo de descobrir qual é a minha área na tecnologia, mas já tenho alguns interesses, como:
-
-  - Softwares de código-aberto 🐧
-  - Desenvolvimento Full-Stack 💻
-  - Produção acadêmica 📝
-
-Ao longo do tempo, estarei publicando meus projetos na minha página do Github. 🌱
+### Postando alguns projetinhos por aqui!🌱
